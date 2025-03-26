@@ -1,1 +1,1 @@
-Criado por Marco Noronha
+Criado por Marco Noronha, para a disciplicina de Ambiente de Desenvolvimento de Software - UNIFOR - 2025.1
